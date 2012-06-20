@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Hello World!
+title: Comming soon
 tagline: Supporting tagline
 ---
 
-#Comming soon...
+a personal blog with jekyll.
 
 
